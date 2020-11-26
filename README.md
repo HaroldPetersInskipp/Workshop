@@ -42,7 +42,7 @@
       </ul>
     </li>
     <li><a href="#Roguelike">Roguelike Project</a>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Commands">Useful Commands</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -70,14 +70,14 @@ A home for my projects and a place to sharpen my development skills.
 
 ## Roguelike
 
-A small developement showcase of code, art, and quick projects. Interested in hiring me for your project? Contact me a Kalordrol2000@yahoo.com
+A small developement showcase of code, art, and quick projects. Interested in hiring me for your project? Contact me at Kalordrol2000@yahoo.com
 
-### Prerequisites
+### Commands
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+How to start xrdp server on Ubuntu
+* Commands
   ```sh
-  npm install npm@latest -g
+  sudo /etc/init.d/xrdp start
   ```
 
 ### Installation
