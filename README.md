@@ -170,7 +170,7 @@ Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.c
 [stars-url]: https://github.com/HaroldPetersInskipp/Workshop/stargazers
 [issues-shield]: https://img.shields.io/github/issues/HaroldPetersInskipp/Workshop.svg?style=for-the-badge
 [issues-url]: https://github.com/HaroldPetersInskipp/Workshop/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/HaroldPetersInskipp/Workshop/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/HaroldPetersInskipp/Workshop.svg?style=for-the-badge
+[license-url]: https://github.com/HaroldPetersInskipp/Workshop/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/HaroldPetersInskipp
