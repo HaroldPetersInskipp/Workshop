@@ -56,7 +56,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Workshop
 
-The Workshop is where I build and host my code, as well as Create art.
+A small developement showcase.
+The Workshop is where I build and host my code, as well as create art.
 A home for my projects and a place to sharpen my development skills.
 
 ### Built With
@@ -70,7 +71,7 @@ A home for my projects and a place to sharpen my development skills.
 
 ## Roguelike
 
-A small developement showcase of code, art, and quick projects. 
+A simple roguelike I made in Javascript and HTML
 
 ## Commands
 <ul></ul>
@@ -129,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-St1ngyJ4ck - [@twitter_handle](https://twitter.com/St1ngyJ4ck) - Kalordrol2000@yahoo.com
+Inskipp - [Twitter](https://twitter.com/St1ngyJ4ck) - [Email](kalordrol2000@yahoo.com)
 
 Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.com/HaroldPetersInskipp/Workshop)
 
