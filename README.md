@@ -72,10 +72,10 @@ A home for my projects and a place to sharpen my development skills.
 
 A small developement showcase of code, art, and quick projects. Interested in hiring me for your project? Contact me at Kalordrol2000@yahoo.com
 
-### Commands
+## Commands
+<ul></ul>
 
-
-#### Ubuntu
+### Ubuntu
 
 How to start xrdp server on Ubuntu
 * Commands
@@ -83,7 +83,7 @@ How to start xrdp server on Ubuntu
   sudo /etc/init.d/xrdp start
   ```
 
-#### Darknet
+### Darknet
 
 1. Detect
    ```sh
