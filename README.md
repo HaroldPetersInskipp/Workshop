@@ -71,10 +71,10 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [1](HTML)
-* [2](CSS)
-* [3](Javascript)
-* [4](Pixel art)
+* [HTML]
+* [CSS]
+* [Javascript]
+* [Pixel art]
 
 
 
