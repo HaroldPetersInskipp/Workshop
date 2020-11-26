@@ -95,7 +95,7 @@ Interested in hiring me <!--Highly skilled--> for your project? Contact me at Ka
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/HaroldPetersInskipp/Workshop/issues), and to make commits to the Worckshop as I progress in development.
+To make commits to the Workshop as my learning progresses, and fix any [open issues](https://github.com/HaroldPetersInskipp/Workshop/issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -104,7 +104,6 @@ Contributions are what make the open source community such an amazing place to b
 
 1. Fork the Project
 2. Open a Pull Request
-3. Create your Feature Branch (`git checkout -b feature/YourFeature`)
 
 <!-- LICENSE -->
 ## License
@@ -121,7 +120,7 @@ Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.c
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* My sweethearts Heather and Moro
+* My two sweethearts Heather and Moro
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
