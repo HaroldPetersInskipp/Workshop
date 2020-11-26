@@ -36,18 +36,12 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-JS/Roguelike">About The Workshop</a>
+      <a href="#about-the-project">About The Workshop</a>
       <ul>
         <li><a href="#built-with">Built with HTML, CSS, Javascript and Pixel art.</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#Roguelike">Roguelike Project</a>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -60,14 +54,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About JS/Roguelike
+## About The Workshop
 
-<a href="https://github.com/HaroldPetersInskipp/Workshop/tree/main/JS/Roguelike"><img src="Images/Roguelike.png" alt="Roguelike"></a>
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`HaroldPetersInskipp`, `Workshop`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+The Workshop is where I build/host code and my projects and sharpen my development skills.
 
 ### Built With
 
@@ -78,8 +67,7 @@ Here's a blank template to get started:
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Roguelike
 
 A small developement showcase of code, art, and quick projects. Interested in hiring me for your project? Contact me a Kalordrol2000@yahoo.com
 
