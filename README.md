@@ -75,7 +75,8 @@ A small developement showcase of code, art, and quick projects. Interested in hi
 ### Commands
 
 
-####Ubuntu
+#### Ubuntu
+
 How to start xrdp server on Ubuntu
 * Commands
   ```sh
