@@ -3,7 +3,6 @@
 [![Stargazers][stars-shield]]()
 [![Issues][issues-shield]]()
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -17,7 +16,7 @@
   <h3 align="center">Workshop</h3>
 
   <p align="center">
-    This is where I test code and ticker on projects
+    Personal/Projects website
     <br />
     <a href="https://github.com/HaroldPetersInskipp/Workshop"><strong>Explore the docs »</strong></a>
     <br />
@@ -37,9 +36,9 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About The Workshop</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Built with HTML, CSS, Javascript and Pixel art.</a></li>
       </ul>
     </li>
     <li>
@@ -81,7 +80,7 @@ Here's a blank template to get started:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+A small developer showcase of code, art, and quick projects. Interested in hiring me for your project? Contact me a Kalordrol2000@yahoo.com
 
 ### Prerequisites
 
@@ -172,5 +171,3 @@ Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.c
 [issues-url]: https://github.com/HaroldPetersInskipp/Workshop/issues
 [license-shield]: https://img.shields.io/github/license/HaroldPetersInskipp/Workshop.svg?style=for-the-badge
 [license-url]: https://github.com/HaroldPetersInskipp/Workshop/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/HaroldPetersInskipp
