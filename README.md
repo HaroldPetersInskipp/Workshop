@@ -70,7 +70,7 @@ A home for my projects and a place to sharpen my development skills.
 
 ## Roguelike
 
-A small developement showcase of code, art, and quick projects. Interested in hiring me for your project? Contact me at Kalordrol2000@yahoo.com
+A small developement showcase of code, art, and quick projects. 
 
 ## Commands
 <ul></ul>
@@ -99,16 +99,13 @@ How to start xrdp server on Ubuntu
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+Use me, in your project. Additional screenshots, art samples, code examples and demos upon request.
+Interested in hiring me <!--Highly skilled--> for your project? Contact me at Kalordrol2000@yahoo.com
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/HaroldPetersInskipp/Workshop/issues), and to make commits as I learn.
+See the [open issues](https://github.com/HaroldPetersInskipp/Workshop/issues), and to make commits to the Worckshop as I progress in development.
 
 
 
