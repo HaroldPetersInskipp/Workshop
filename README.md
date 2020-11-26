@@ -62,8 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About JS/Roguelike
 
-<img src="Images/Roguelike.png">
-https://github.com/HaroldPetersInskipp/Workshop/JS/Roguelike</img>
+<img src="Images/Roguelike.png" href="https://github.com/HaroldPetersInskipp/Workshop/tree/main/JS/Roguelike">
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
