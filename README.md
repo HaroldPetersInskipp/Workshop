@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/HaroldPetersInskipp/Workshop">
-    <img src="Images/Favicon.png" alt="Logo" width="80" height="80">
+    <img src="/Images/Favicon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Workshop</h3>
