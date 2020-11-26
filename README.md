@@ -162,15 +162,15 @@ Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/HaroldPetersInskipp/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/HaroldPetersInskipp/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HaroldPetersInskipp/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/HaroldPetersInskipp/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/HaroldPetersInskipp/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/HaroldPetersInskipp/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HaroldPetersInskipp/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/HaroldPetersInskipp/repo/issues
-[license-shield]: https://img.shields.io/github/license/HaroldPetersInskipp/repo.svg?style=for-the-badge
-[license-url]: https://github.com/HaroldPetersInskipp/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
+[contributors-url]: https://github.com/HaroldPetersInskipp/Workshop/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HaroldPetersInskipp/Workshop.svg?style=for-the-badge
+[forks-url]: https://github.com/HaroldPetersInskipp/Workshop/network/members
+[stars-shield]: https://img.shields.io/github/stars/HaroldPetersInskipp/Workshop.svg?style=for-the-badge
+[stars-url]: https://github.com/HaroldPetersInskipp/Workshop/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HaroldPetersInskipp/Workshop.svg?style=for-the-badge
+[issues-url]: https://github.com/HaroldPetersInskipp/Workshop/issues
+[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
+[license-url]: https://github.com/HaroldPetersInskipp/Workshop/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/HaroldPetersInskipp
