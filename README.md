@@ -162,7 +162,7 @@ Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/HaroldPetersInskipp/Workshop.svg?style=for-the-badge
 [contributors-url]: https://github.com/HaroldPetersInskipp/Workshop/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/HaroldPetersInskipp/Workshop.svg?style=for-the-badge
 [forks-url]: https://github.com/HaroldPetersInskipp/Workshop/network/members
