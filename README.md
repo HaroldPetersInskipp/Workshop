@@ -1,7 +1,7 @@
-[![Contributors][contributors-shield]][https://github.com/HaroldPetersInskipp]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Contributors][contributors-shield]]()
+[![Forks][forks-shield]]()
+[![Stargazers][stars-shield]]()
+[![Issues][issues-shield]]()
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
