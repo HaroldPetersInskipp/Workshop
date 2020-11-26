@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Inskipp - [Twitter](https://twitter.com/St1ngyJ4ck) - [Email](kalordrol2000@yahoo.com)
+Inskipp: [Twitter](https://twitter.com/St1ngyJ4ck), [Email](kalordrol2000@yahoo.com)
 
 Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.com/HaroldPetersInskipp/Workshop)
 
