@@ -21,7 +21,7 @@
     <a href="https://github.com/HaroldPetersInskipp/Workshop"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/HaroldPetersInskipp/Workshop">View Demo</a>
+    <a href="https://github.com/HaroldPetersInskipp/Workshop/JS/Roguelike/index.html">View Demo</a>
     ·
     <a href="https://github.com/HaroldPetersInskipp/Workshop/issues">Report Bug</a>
     ·
