@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Projects][product-screenshot]](https://example.com)
+[![Projects][product-screenshot]](https://github.com/HaroldPetersInskipp/Workshop/JS/Roguelike)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
