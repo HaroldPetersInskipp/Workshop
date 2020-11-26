@@ -80,7 +80,7 @@ Here's a blank template to get started:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-A small developer showcase of code, art, and quick projects. Interested in hiring me for your project? Contact me a Kalordrol2000@yahoo.com
+A small developement showcase of code, art, and quick projects. Interested in hiring me for your project? Contact me a Kalordrol2000@yahoo.com
 
 ### Prerequisites
 
