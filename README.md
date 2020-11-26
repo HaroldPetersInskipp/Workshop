@@ -56,7 +56,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Workshop
 
-The Workshop is where I build/host code and my projects and sharpen my development skills.
+The Workshop is where I build and host my code, as well as Create art.
+A home for my projects and a place to sharpen my development skills.
 
 ### Built With
 
