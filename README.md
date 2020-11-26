@@ -74,21 +74,22 @@ A small developement showcase of code, art, and quick projects. Interested in hi
 
 ### Commands
 
+##Ubuntu
 How to start xrdp server on Ubuntu
 * Commands
   ```sh
   sudo /etc/init.d/xrdp start
   ```
 
-### Installation
+## Darknet
 
-1. Clone the repo
+1. Detect
    ```sh
-   git clone https://github.com/HaroldPetersInskipp/Workshop.git
+   ./darknet detector test cfg/coco.data cfg/yolov4.cfg cfg/yolov4.weights
    ```
-2. Install NPM packages
+2. Detect and output
    ```sh
-   npm install
+   ./darknet detector test cfg/coco.data cfg/yolov4.cfg cfg/yolov4.weights -ext_output data/image0.jpg
    ```
 
 
