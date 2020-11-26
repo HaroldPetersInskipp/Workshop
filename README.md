@@ -36,7 +36,7 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Workshop</a>
+      <a href="#about-JS/Roguelike">About The Workshop</a>
       <ul>
         <li><a href="#built-with">Built with HTML, CSS, Javascript and Pixel art.</a></li>
       </ul>
