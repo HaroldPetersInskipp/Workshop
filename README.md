@@ -4,8 +4,6 @@
 [![Issues][issues-shield]]()
 [![MIT License][license-shield]][license-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -29,8 +27,6 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -51,8 +47,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Workshop
 
@@ -66,8 +60,6 @@ A home for my projects and a place to sharpen my development skills.
 * CSS
 * Javascript
 * Pixel art
-
-
 
 ## Roguelike
 
@@ -83,7 +75,6 @@ How to start xrdp server on Ubuntu
   ```sh
   sudo /etc/init.d/xrdp start
   ```
-
 ### Darknet
 
 1. Detect
@@ -94,8 +85,6 @@ How to start xrdp server on Ubuntu
    ```sh
    ./darknet detector test cfg/coco.data cfg/yolov4.cfg cfg/yolov4.weights -ext_output data/image0.jpg
    ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -108,8 +97,6 @@ Interested in hiring me <!--Highly skilled--> for your project? Contact me at Ka
 
 See the [open issues](https://github.com/HaroldPetersInskipp/Workshop/issues), and to make commits to the Worckshop as I progress in development.
 
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -119,33 +106,22 @@ Contributions are what make the open source community such an amazing place to b
 2. Open a Pull Request
 3. Create your Feature Branch (`git checkout -b feature/YourFeature`)
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Inskipp: [Github](https://github.com/HaroldPetersInskipp) [Twitter](https://twitter.com/St1ngyJ4ck), [Email](kalordrol2000@yahoo.com)
+Inskipp: [Github](https://github.com/HaroldPetersInskipp), [Twitter](https://twitter.com/St1ngyJ4ck), [Email](kalordrol2000@yahoo.com)
 
 Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.com/HaroldPetersInskipp/Workshop)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
-
-
-
-
+* My sweethearts Heather and Moro
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
