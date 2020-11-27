@@ -1,6 +1,6 @@
 [![Contributors][contributors-shield]](https://github.com/HaroldPetersInskipp)
-[![Forks][forks-shield]]()
-[![Stargazers][stars-shield]]()
+[![Forks][forks-shield]](https://github.com/HaroldPetersInskipp/Workshop/network/members)
+[![Stargazers][stars-shield]](https://github.com/HaroldPetersInskipp/Workshop/stargazers)
 [![Issues][issues-shield]](https://github.com/HaroldPetersInskipp/Workshop/issues)
 [![MIT License][license-shield]][license-url]
 
