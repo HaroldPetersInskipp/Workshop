@@ -1,7 +1,7 @@
-[![Contributors][contributors-shield]]()
+[![Contributors][contributors-shield]](https://github.com/HaroldPetersInskipp)
 [![Forks][forks-shield]]()
 [![Stargazers][stars-shield]]()
-[![Issues][issues-shield]]()
+[![Issues][issues-shield]](https://github.com/HaroldPetersInskipp/Workshop/issues)
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
