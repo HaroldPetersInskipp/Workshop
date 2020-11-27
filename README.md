@@ -79,11 +79,11 @@ How to start xrdp server on Ubuntu
   ```
 ### Darknet
 
-1. Detect
+* Detect
    ```sh
    ./darknet detector test cfg/coco.data cfg/yolov4.cfg cfg/yolov4.weights
    ```
-2. Detect and output
+* Detect and output
    ```sh
    ./darknet detector test cfg/coco.data cfg/yolov4.cfg cfg/yolov4.weights -ext_output data/image0.jpg
    ```
