@@ -84,7 +84,42 @@ p {
 }
 
 /* Style the footer */
-.footer {
-  background-color: #f1f1f1;
-  padding: 10px;
+/*.footer {
+	overflow: hidden;
+	background-color: #403f3f;
+    margin:0;
+    padding:0;
+}*/
+
+/* Style the footer links */
+/*.footer a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 7px 16px;
+	text-decoration: none;
+}*/
+
+.nav {
+	background-color: 403f3f; 
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.nav li {
+	display: inline-block;
+	font-size: 18px;
+	padding: 20px;
+}
+
+.nav a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 7px 16px;
+	text-decoration: none;
 }
