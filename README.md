@@ -59,6 +59,7 @@ A home for my projects and a place to sharpen my development skills.
 * HTML
 * CSS
 * Javascript
+* Markdown
 * Pixel art
 
 ## Roguelike
