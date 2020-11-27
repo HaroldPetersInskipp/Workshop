@@ -34,7 +34,7 @@
     <li>
       <a href="#about-the-workshop">About The Workshop</a>
       <ul>
-        <li><a href="#built-with">Built with HTML, CSS, Javascript and Pixel art.</a></li>
+        <li><a href="#built-with">Built with HTML, CSS, Javascript, Markdown and Pixel art.</a></li>
       </ul>
     </li>
     <li><a href="#Roguelike">Roguelike Project</a>
