@@ -1,7 +1,46 @@
-<!DOCTYPE css>
-h3 {
-  border-radius: 5px;
-}
 h1 {
-  border-bottom: 3px;
+	border-bottom: 3px;
+	color:#DB0000;
+	font-size:40px;
+	border-bottom:3px solid;
+	text-align:center;
+	background-color:#403f3f;
+	border-radius: 5px;
+}
+
+h3 {
+	border-radius: 5px;
+	text-align: center;
+}
+
+body {
+	background-color:#232323;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+}
+
+p {
+	padding-left: 10%;
+	font-family: "Lucida Console";
+}
+
+div.images {
+	text-align: center;
+}
+
+div.links {
+	display: block;
+	text-align: center;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+div.audio {
+	text-align: center;
+}
+
+div.video {
+	text-align: center;
 }
