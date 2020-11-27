@@ -64,6 +64,7 @@ A home for my projects and a place to sharpen my development skills.
 ## Roguelike
 
 A simple roguelike I made in Javascript and HTML
+<a href="https://github.com/HaroldPetersInskipp/Workshop/tree/main/JS/Roguelike"><img src="Images/Roguelike.png" alt="Roguelike"></a>
 
 ## Commands
 <ul></ul>
