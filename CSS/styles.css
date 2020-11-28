@@ -5,7 +5,7 @@
 /* Style the 1rd header */
 h1 {
 	color:#111;
-	font-size:40px;
+	font-size:48px;
 	text-align:center;
 	background-color:#403f3f;
 	margin:0;
@@ -16,6 +16,18 @@ h1 {
 h3 {
 	border-radius: 5px;
 	text-align: center;
+}
+
+/* Style the 5th header  */
+h5 {
+	padding-left: 10%;
+
+}
+
+/* Style the 6th header  */
+h6 {
+	padding-left: 10%;
+
 }
 
 /* Style the body */
