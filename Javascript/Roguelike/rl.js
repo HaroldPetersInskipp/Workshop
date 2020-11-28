@@ -2,11 +2,11 @@
 var FONT = 32;
 
 // map dimensions
-var ROWS = 24; // number of rows
-var COLS = 60; // number of columns
+var ROWS = 18; // number of rows
+var COLS = 48; // number of columns
 
 // characters per level, including player
-var ACTORS = 11;
+var ACTORS = 9;
 
 // a list of all actors; 0 is player
 var player;
