@@ -16,10 +16,10 @@
   <p align="center">
     Personal/Projects website
     <br />
-    <a href="https://github.com/HaroldPetersInskipp/Workshop"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/HaroldPetersInskipp/Workshop"><strong>Explore the Workbench »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/HaroldPetersInskipp/Workshop/tree/main/Javascript/Roguelike">View Demo</a>
+    <a href="https://github.com/HaroldPetersInskipp/Workshop/tree/main/Javascript/Roguelike">View Roguelike Demo</a>
     ·
     <a href="https://github.com/HaroldPetersInskipp/Workshop/issues">Report Bug</a>
     ·
@@ -65,7 +65,7 @@ A home for my projects and a place to sharpen my development skills.
 ## Roguelike
 
 A simple roguelike I made in Javascript and HTML
-<a href="https://github.com/HaroldPetersInskipp/Workshop/tree/main/Javascript/Roguelike"><img src="Images/Roguelike.png" alt="Roguelike"></a>
+<a href="https://haroldpetersinskipp.github.io/Javascript/Roguelike/index.html"><img src="Images/Roguelike.png" alt="Roguelike"></a>
 
 ## Commands
 <ul></ul>
