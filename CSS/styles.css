@@ -41,7 +41,9 @@ body {
 
 /* Style the paragraphes */
 p {
-	padding-left: 10%;
+	margin-bottom: 0;
+	text-align: center;
+	color: white;
 	font-family: "Lucida Console";
 }
 
