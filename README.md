@@ -16,7 +16,7 @@
   <p align="center">
     Personal/Projects website
     <br />
-    <a href="https://github.com/HaroldPetersInskipp/Workshop"><strong>Explore the Workbench »</strong></a>
+    <a href="https://haroldpetersinskipp.github.io/Workbench.html"><strong>Explore the Workbench »</strong></a>
     <br />
     <br />
     <a href="https://github.com/HaroldPetersInskipp/Workshop/tree/main/Javascript/Roguelike">View Roguelike Demo</a>
