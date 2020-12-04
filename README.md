@@ -92,7 +92,7 @@ How to start xrdp server on Ubuntu
 ## Usage
 
 Use me, in your project. Additional screenshots, art samples, code examples and demos upon request.
-Interested in hiring me <!--Highly skilled--> for your project? Contact me at [Email](kalordrol2000@yahoo.com)
+Interested in hiring me <!--Highly skilled--> for your project? Contact me at (kalordrol2000@yahoo.com)
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -115,7 +115,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Inskipp: [Github](https://github.com/HaroldPetersInskipp), [Email](kalordrol2000@yahoo.com)
+Inskipp: [Github](https://github.com/HaroldPetersInskipp), (kalordrol2000@yahoo.com)
 
 Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.com/HaroldPetersInskipp/Workshop)
 
