@@ -119,6 +119,13 @@ Inskipp: [Github](https://github.com/HaroldPetersInskipp), [Twitter](https://twi
 
 Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.com/HaroldPetersInskipp/Workshop)
 
+<!--Support-->
+## Support
+
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/3Qic3KPrFyWok97GGDkkG8pAcL1H5dGHza)](https://en.cryptobadges.io/donate/3Qic3KPrFyWok97GGDkkG8pAcL1H5dGHza)
+
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0xe25c035144DaBD429b4323b8741a57BD27940A2B)](https://en.cryptobadges.io/donate/0xe25c035144DaBD429b4323b8741a57BD27940A2B)
+
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
