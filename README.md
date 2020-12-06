@@ -115,7 +115,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Inskipp: [Github](https://github.com/HaroldPetersInskipp), (kalordrol2000@yahoo.com)
+Inskipp: [Github](https://github.com/HaroldPetersInskipp), [Email](mailto:kalordrol2000@yahoo.com)
 
 Project Link: [https://github.com/HaroldPetersInskipp/Workshop](https://github.com/HaroldPetersInskipp/Workshop)
 
