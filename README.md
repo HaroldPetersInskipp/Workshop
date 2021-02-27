@@ -1,3 +1,4 @@
+[![Discord](https://img.shields.io/discord/755958523799535637?color=%234518f5&label=Discord&logo=discord&logoColor=%23403d3d&style=for-the-badge)](https://discord.gg/mPgwGwgUYF)
 [![Contributors][contributors-shield]](https://github.com/HaroldPetersInskipp)
 [![Forks][forks-shield]](https://github.com/HaroldPetersInskipp/Workshop/network/members)
 [![Stargazers][stars-shield]](https://github.com/HaroldPetersInskipp/Workshop/stargazers)
