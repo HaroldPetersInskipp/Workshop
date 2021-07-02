@@ -1,3 +1,5 @@
+// const Phaser = require('phaser')
+const Phaser = require('./phaser.min.js')
 // size of font
 var FONT = 32;
 
