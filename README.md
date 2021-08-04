@@ -68,26 +68,10 @@ A home for my projects and a place to sharpen my development skills.
 A simple roguelike I made in Javascript and HTML
 <a href="https://haroldpetersinskipp.github.io/Javascript/Roguelike/index.html"><img src="Images/Roguelike.png" alt="Roguelike"></a>
 
-## Commands
-<ul></ul>
+## Card game
 
-### Ubuntu
-
-How to start xrdp server on Ubuntu
-* Commands
-  ```sh
-  sudo /etc/init.d/xrdp start
-  ```
-### Darknet
-
-* Detect
-   ```sh
-   ./darknet detector test cfg/coco.data cfg/yolov4.cfg cfg/yolov4.weights
-   ```
-* Detect and output
-   ```sh
-   ./darknet detector test cfg/coco.data cfg/yolov4.cfg cfg/yolov4.weights -ext_output data/image0.jpg
-   ```
+A card game made in Javascript, using electron express and node.
+<img src="Images/Screenshot.png">
 
 <!-- USAGE EXAMPLES -->
 ## Usage
