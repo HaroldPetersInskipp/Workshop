@@ -71,7 +71,7 @@ A simple roguelike I made in Javascript and HTML
 ## Card game
 
 A card game made in Javascript, using electron express and node.
-<img src="Images/Screenshot.png">
+<img src="Images/Screenshot.png">(https://github.com/HaroldPetersInskipp/GameDemo)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
